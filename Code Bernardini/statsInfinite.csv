@@ -1,0 +1,35 @@
+Biglietteria,Interarrival Time avg,3.015,0.015
+Biglietteria,Wait avg,19.350,0.257
+Biglietteria,Delay avg,4.541,0.252
+Biglietteria,Service Time avg,2.474,0.007
+Biglietteria,Num Node avg,6.425,0.108
+Biglietteria,Num Queue avg,1.514,0.089
+Biglietteria,Utilization avg,0.821,0.005
+Coda Veloce Jumanji,Interarrival Time avg,32.305,0.447
+Coda Veloce Jumanji,Wait avg,7.467,0.034
+Coda Veloce Jumanji,Delay avg,0.802,0.031
+Coda Veloce Jumanji,Service Time avg,6.665,0.012
+Coda Veloce Jumanji,Num Node avg,0.233,0.004
+Coda Veloce Jumanji,Num Queue avg,0.025,0.001
+Coda Veloce Jumanji,Utilization avg,0.208,0.003
+Coda Lenta Jumanji,Interarrival Time avg,6.664,0.005
+Coda Lenta Jumanji,Wait avg,2378.416,24.121
+Coda Lenta Jumanji,Delay avg,2371.749,24.120
+Coda Lenta Jumanji,Service Time avg,6.667,0.005
+Coda Lenta Jumanji,Num Node avg,356.698,3.600
+Coda Lenta Jumanji,Num Queue avg,355.698,3.600
+Coda Lenta Jumanji,Utilization avg,1.000,0.000
+Coda Veloce Atlantide,Interarrival Time avg,48.647,0.798
+Coda Veloce Atlantide,Wait avg,3.088,0.009
+Coda Veloce Atlantide,Delay avg,0.088,0.007
+Coda Veloce Atlantide,Service Time avg,3.000,0.005
+Coda Veloce Atlantide,Num Node avg,0.064,0.001
+Coda Veloce Atlantide,Num Queue avg,0.002,0.000
+Coda Veloce Atlantide,Utilization avg,0.062,0.001
+Coda Lenta Atlantide,Interarrival Time avg,5.444,0.028
+Coda Lenta Atlantide,Wait avg,4.585,0.027
+Coda Lenta Atlantide,Delay avg,1.584,0.027
+Coda Lenta Atlantide,Service Time avg,3.000,0.002
+Coda Lenta Atlantide,Num Node avg,0.843,0.008
+Coda Lenta Atlantide,Num Queue avg,0.291,0.006
+Coda Lenta Atlantide,Utilization avg,0.551,0.003
